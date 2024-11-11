@@ -35,4 +35,7 @@ Summary:
 
 The method like dropout regularization, adjusted learning rates, and early stopping-helped the model improve incrementally. To further enhance accuracy, additional preprocessing or experimentration with epochs may be useful in future. 
 
-
+Reference:
+BCS(Xpert Learning ASSISTANCE) and class activities 
+AI tools like Gamini and ChatGpt
+Classmates and peer assistance 
