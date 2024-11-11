@@ -37,5 +37,5 @@ The method like dropout regularization, adjusted learning rates, and early stopp
 
 Reference:
 BCS(Xpert Learning ASSISTANCE) and class activities, 
-AI tools like Gamini and ChatGpt,
+AI tools like Gemini and ChatGpt,
 Classmates and peer assistance. 
